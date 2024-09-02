@@ -1,7 +1,7 @@
 # K-Means-Clustering-Algorithm
 K-Means Clustering Algorithm 파이썬 구현
 
-## 1. K_Means_Algorithm_Steps
+## 1. K_Means_Algorithm_Steps.ipynb
 K-Means Clustering 알고리즘의 단계를 나누어 각 단계를 확인하는 코드
 1. 데이터 불러오기
 2. 데이터 파악
@@ -31,7 +31,7 @@ K-Means Clustering 알고리즘의 단계를 나누어 각 단계를 확인하�
 8. 변화가 있다면 6번으로 다시 돌아가서 반복하고, 변화가 없다면 결과값 출력
 
 
-## 2. K_Means_Clustering_Algorithm
+## 2. K_Means_Clustering_Algorithm.ipynb
 K-Means Clustering 알고리즘을 하나의 kmeans함수로 구현
 
 ### 사용된 데이터셋
