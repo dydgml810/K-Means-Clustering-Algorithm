@@ -37,3 +37,14 @@ K-Means Clustering 알고리즘을 하나의 kmeans함수로 구현
 ### 사용된 데이터셋
 1. Ruspini
 2. Iris
+
+<hr/>
+
+* 파일:
+  + dataset
+    - glass.txt
+    - iris.txt
+    - ruspini.txt
+    - wine.csv
+  + K_Means_Algorithm_Steps.ipynb
+  + K_Means_Clustering_Algorithm.ipynb
